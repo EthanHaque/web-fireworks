@@ -4,4 +4,4 @@ Cool little firework animation.
 Made using [anime.js](https://animejs.com/documentation).
 <br>
 <br>
-[View the animation.]().
+[View the animation.](https://ethanhaque.github.io/web-fireworks/)
